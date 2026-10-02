@@ -53,7 +53,10 @@
     "catalogo.ideca.gov.co/",
     "datosabiertos.bogota.gov.co/",
     "metadatos.ideca.gov.co/",
-    "geoitems.ideca.gov.co/"
+    "geoitems.ideca.gov.co/",
+    "http://10.37.5.4/",
+    "http://10.35.180.29/",
+    "http://10.35.180.11/"
   ],
       "children": [
         {
