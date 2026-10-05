@@ -49,15 +49,18 @@
       "label": "Recursos",
       "url": "https://www.ideca.gov.co/recursos",
       "activeWhen": [
-    "/datos/index.html",
-    "catalogo.ideca.gov.co/",
-    "datosabiertos.bogota.gov.co/",
-    "metadatos.ideca.gov.co/",
-    "geoitems.ideca.gov.co/",
-    "http://10.37.5.4/",
-    "http://10.35.180.29/",
-    "http://10.35.180.11/"
-  ],
+  "/datos/index.html",
+  "/servicios/",
+  "/proyectos/",
+  "/aplicaciones/",
+  "catalogo.ideca.gov.co/",
+  "datosabiertos.bogota.gov.co/",
+  "metadatos.ideca.gov.co/",
+  "geoitems.ideca.gov.co/",
+  "http://10.37.5.4/",
+  "http://10.35.180.29/",
+  "http://10.35.180.11/"
+]
       "children": [
         {
           "id": "los-mas-consultados",
