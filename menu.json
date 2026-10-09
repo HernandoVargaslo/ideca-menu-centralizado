@@ -124,7 +124,9 @@
       "label": "Herramientas",
       "url": "https://www.ideca.gov.co/herramientas",
       "activeWhen": [
-        "/hiee/index.html"
+        "/hiee/index.html",
+        "/v5/index.html",
+        "mapas.bogota.gov.co"
     ],
       "children": [
         {
