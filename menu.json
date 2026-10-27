@@ -126,7 +126,8 @@
       "activeWhen": [
         "/hiee/index.html",
         "/v5/index.html",
-        "mapas.bogota.gov.co"
+        "mapas.bogota.gov.co",
+        "/inventario/"
     ],
       "children": [
         {
