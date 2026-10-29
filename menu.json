@@ -1,53 +1,53 @@
 {
-  "version": "1.0.4",
-  "updatedAt": "2026-10-09",
+  "version": "1.0.5",
+  "updatedAt": "2026-29-20",
   "menu": [
     {
       "id": "inicio",
       "label": "Inicio",
-      "url": "https://www.ideca.gov.co/"
+      "url": "http://10.35.115.6/"
     },
     {
       "id": "quienes-somos",
       "label": "Quiénes somos",
-      "url": "https://www.ideca.gov.co/que-es-ideca",
+      "url": "http://10.35.115.6/que-es-ideca",
       "children": [
         {
           "id": "que-es-ideca",
           "label": "Qué es Ideca",
-          "url": "https://www.ideca.gov.co/que-es-ideca"
+          "url": "http://10.35.115.6/que-es-ideca"
         },
         {
           "id": "estrategia-ideca",
           "label": "Estrategia Ideca",
-          "url": "https://www.ideca.gov.co/estrategia-ideca"
+          "url": "http://10.35.115.6/estrategia-ideca"
         },
         {
           "id": "estructura-ideca",
           "label": "Estructura Ideca",
-          "url": "https://www.ideca.gov.co/estructura-ideca"
+          "url": "http://10.35.115.6/estructura-ideca"
         },
         {
           "id": "normatividad-ideca",
           "label": "Normatividad Ideca",
-          "url": "https://www.ideca.gov.co/normatividad-ideca"
+          "url": "http://10.35.115.6/normatividad-ideca"
         },
         {
           "id": "gestion-indicadores",
           "label": "Gestión e indicadores",
-          "url": "https://www.ideca.gov.co/gestion-indicadores"
+          "url": "http://10.35.115.6/gestion-indicadores"
         },
         {
           "id": "infraestructura-conocimiento",
           "label": "Hacia una infraestructura de conocimiento espacial",
-          "url": "https://www.ideca.gov.co/hacia-una-infraestructura-de-conocimiento"
+          "url": "http://10.35.115.6/hacia-una-infraestructura-de-conocimiento"
         }
       ]
     },
     {
       "id": "recursos",
       "label": "Recursos",
-      "url": "https://www.ideca.gov.co/recursos",
+      "url": "http://10.35.115.6/recursos",
       "activeWhen": [
         "/datos/index.html",
         "/servicios/",
@@ -65,22 +65,22 @@
         {
           "id": "los-mas-consultados",
           "label": "Los más consultados",
-          "url": "https://www.ideca.gov.co/recursos/los-mas-consultados"
+          "url": "http://10.35.115.6/recursos/los-mas-consultados"
         },
         {
           "id": "mapas-imagenes",
           "label": "Mapas e imágenes",
-          "url": "https://www.ideca.gov.co/mapas"
+          "url": "http://10.35.115.6/mapas"
         },
         {
           "id": "datos-bases-datos",
           "label": "Datos y Bases de datos",
-          "url": "https://www.ideca.gov.co/recursos/datos-mas-consultados"
+          "url": "http://10.35.115.6/recursos/datos-mas-consultados"
         },
         {
           "id": "analitica",
           "label": "Analítica",
-          "url": "https://www.ideca.gov.co/recursos/analitica"
+          "url": "http://10.35.115.6/recursos/analitica"
         },
         {
           "id": "metadato",
@@ -110,19 +110,19 @@
         {
           "id": "directorio-actores",
           "label": "Directorio de actores",
-          "url": "https://www.ideca.gov.co/recursos/directorio-de-actores"
+          "url": "http://10.35.115.6/recursos/directorio-de-actores"
         },
         {
           "id": "instrumentos-tecnicos-juridicos",
           "label": "Instrumentos técnicos y jurídicos",
-          "url": "https://www.ideca.gov.co/recursos/instrumentos-tecnicos-y-juridicos/aspectos-generales"
+          "url": "http://10.35.115.6/recursos/instrumentos-tecnicos-y-juridicos/aspectos-generales"
         }
       ]
     },
     {
       "id": "herramientas",
       "label": "Herramientas",
-      "url": "https://www.ideca.gov.co/herramientas",
+      "url": "http://10.35.115.6/herramientas",
       "activeWhen": [
         "/hiee/index.html",
         "/v5/index.html",
@@ -133,114 +133,114 @@
         {
           "id": "herramientas-interaccion",
           "label": "Herramientas para el uso de información geográfica y catastral",
-          "url": "https://www.ideca.gov.co/herramientas#herramientas-interaccion"
+          "url": "http://10.35.115.6/herramientas#herramientas-interaccion"
         },
         {
           "id": "herramientas-gestion",
           "label": "Gestión de recursos geográficos",
-          "url": "https://www.ideca.gov.co/herramientas#herramientas-gestion"
+          "url": "http://10.35.115.6/herramientas#herramientas-gestion"
         },
         {
           "id": "herramientas-comunidad",
           "label": "Comunidad Ideca para desarrolladores",
-          "url": "https://www.ideca.gov.co/herramientas#herramientas-comunidad"
+          "url": "http://10.35.115.6/herramientas#herramientas-comunidad"
         },
         {
           "id": "herramientas-miembros",
           "label": "Herramientas miembros Ideca",
-          "url": "https://www.ideca.gov.co/herramientas#herramientas-miembros"
+          "url": "http://10.35.115.6/herramientas#herramientas-miembros"
         }
       ]
     },
     {
       "id": "uso-datos",
       "label": "Uso de datos",
-      "url": "https://www.ideca.gov.co/uso-de-datos/contexto-del-dato-a-la-decision",
+      "url": "http://10.35.115.6/uso-de-datos/contexto-del-dato-a-la-decision",
       "children": [
         {
           "id": "contexto-dato-decision",
           "label": "Contexto: Del dato a la decisión",
-          "url": "https://www.ideca.gov.co/uso-de-datos/contexto-del-dato-a-la-decision"
+          "url": "http://10.35.115.6/uso-de-datos/contexto-del-dato-a-la-decision"
         },
         {
           "id": "inspirate-casos-historias",
           "label": "Inspírate: casos e historias con datos",
-          "url": "https://www.ideca.gov.co/uso-de-datos/inspirate-casos-e-historias-con-datos"
+          "url": "http://10.35.115.6/uso-de-datos/inspirate-casos-e-historias-con-datos"
         },
         {
           "id": "cocreacion-ciudadana",
           "label": "Súmate: co-creación ciudadana",
-          "url": "https://www.ideca.gov.co/uso-de-datos/inspirate/cocreacion-ciudadana"
+          "url": "http://10.35.115.6/uso-de-datos/inspirate/cocreacion-ciudadana"
         },
         {
           "id": "como-usar-datos",
           "label": "¿Cómo puedo usar los datos?",
-          "url": "https://www.ideca.gov.co/uso-de-datos/como-puedo-usar-los-datos"
+          "url": "http://10.35.115.6/uso-de-datos/como-puedo-usar-los-datos"
         },
         {
           "id": "fuentes-datos",
           "label": "Fuentes de datos",
-          "url": "https://www.ideca.gov.co/uso-de-datos/fuentes-de-datos"
+          "url": "http://10.35.115.6/uso-de-datos/fuentes-de-datos"
         },
         {
           "id": "aprende-usar-datos",
           "label": "Aprende a usar datos",
-          "url": "https://www.ideca.gov.co/uso-de-datos/aprende-a-usar-datos"
+          "url": "http://10.35.115.6/uso-de-datos/aprende-a-usar-datos"
         }
       ]
     },
     {
       "id": "aprendizaje",
       "label": "Aprendizaje",
-      "url": "https://www.ideca.gov.co/aprendizaje",
+      "url": "http://10.35.115.6/aprendizaje",
       "children": [
         {
           "id": "cursos",
           "label": "Cursos",
-          "url": "https://www.ideca.gov.co/aprendizaje"
+          "url": "http://10.35.115.6/aprendizaje"
         },
         {
           "id": "glosario-geoespacial",
           "label": "Glosario geoespacial",
-          "url": "https://www.ideca.gov.co/glosario-geoespacial"
+          "url": "http://10.35.115.6/glosario-geoespacial"
         },
         {
           "id": "conocimiento-audiovisual",
           "label": "Conocimiento audiovisual o interactivo",
-          "url": "https://www.ideca.gov.co/capsulas-de-conocimiento"
+          "url": "http://10.35.115.6/capsulas-de-conocimiento"
         },
         {
           "id": "biblioteca-digital",
           "label": "Biblioteca Digital de aprendizaje",
-          "url": "https://www.ideca.gov.co/documentos-de-aprendizaje"
+          "url": "http://10.35.115.6/documentos-de-aprendizaje"
         },
         {
           "id": "ninas-ninos",
           "label": "¿Eres niña/o? ¡Aprende aquí!",
-          "url": "https://www.ideca.gov.co/eres-nina-o-aprende-aqui"
+          "url": "http://10.35.115.6/eres-nina-o-aprende-aqui"
         }
       ]
     },
     {
       "id": "actualidad",
       "label": "Actualidad",
-      "url": "https://www.ideca.gov.co/actualidad",
+      "url": "http://10.35.115.6/actualidad",
       "dropdownClass": "dropdown-left",
       "children": [
         {
           "id": "noticias",
           "label": "Noticias",
-          "url": "https://www.ideca.gov.co/actualidad"
+          "url": "http://10.35.115.6/actualidad"
         },
         {
           "id": "eventos",
           "label": "Eventos",
-          "url": "https://www.ideca.gov.co/eventos"
+          "url": "http://10.35.115.6/eventos"
         },
         {
           "id": "convocatorias",
           "label": "Convocatorias",
-          "url": "https://www.ideca.gov.co/convocatorias"
+          "url": "http://10.35.115.6/convocatorias"
         }
       ]
     },
@@ -252,28 +252,28 @@
     {
       "id": "ayuda",
       "label": "Ayuda",
-      "url": "https://www.ideca.gov.co/ayuda",
+      "url": "http://10.35.115.6/ayuda",
       "dropdownClass": "dropdown-left",
       "children": [
         {
           "id": "guia-rapida",
           "label": "Guía rápida: qué hay y donde está",
-          "url": "https://www.ideca.gov.co/ayuda"
+          "url": "http://10.35.115.6/ayuda"
         },
         {
           "id": "preguntas-frecuentes",
           "label": "Preguntas frecuentes (FAQ)",
-          "url": "https://www.ideca.gov.co/ayuda/preguntas-frecuentes"
+          "url": "http://10.35.115.6/ayuda/preguntas-frecuentes"
         },
         {
           "id": "soporte-contacto",
           "label": "Soporte y contacto",
-          "url": "https://www.ideca.gov.co/ayuda/soporte-y-contacto"
+          "url": "http://10.35.115.6/ayuda/soporte-y-contacto"
         },
         {
           "id": "manuales-uso",
           "label": "Manuales de uso",
-          "url": "https://www.ideca.gov.co/ayuda/manuales-de-uso"
+          "url": "http://10.35.115.6/ayuda/manuales-de-uso"
         }
       ]
     }
