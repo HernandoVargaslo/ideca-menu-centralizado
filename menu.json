@@ -95,17 +95,17 @@
         {
           "id": "proyectos",
           "label": "Proyectos",
-          "url": "https://catalogo.ideca.gov.co/proyectos/"
+          "url": "https://catalogorecursos.vercel.app/proyectos/index.html"
         },
         {
           "id": "aplicaciones",
           "label": "Aplicaciones",
-          "url": "https://catalogo.ideca.gov.co/aplicaciones/"
+          "url": "https://catalogorecursos.vercel.app/aplicaciones/index.html"
         },
         {
           "id": "servicios-web-geo",
           "label": "Servicios web geo",
-          "url": "https://catalogo.ideca.gov.co/servicios/"
+          "url": "https://catalogorecursos.vercel.app/servicios/index.html"
         },
         {
           "id": "directorio-actores",
