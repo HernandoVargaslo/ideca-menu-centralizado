@@ -128,7 +128,8 @@
         "/hie/index.html",
         "/v5/index.html",
         "mapas.bogota.gov.co",
-        "/inventario/"
+        "/inventario/",
+        "/gestioninventarios/"
     ],
       "children": [
         {
