@@ -125,6 +125,7 @@
       "url": "https://www.ideca.gov.co/herramientas",
       "activeWhen": [
         "/hiee/index.html",
+        "/hie/index.html",
         "/v5/index.html",
         "mapas.bogota.gov.co",
         "/inventario/"
