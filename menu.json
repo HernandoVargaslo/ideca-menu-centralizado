@@ -50,6 +50,7 @@
       "url": "https://www.ideca.gov.co/recursos",
       "activeWhen": [
         "/datos/index.html",
+        "/datos/",
         "/servicios/",
         "/proyectos/",
         "/aplicaciones/",
