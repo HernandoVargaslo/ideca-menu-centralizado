@@ -58,7 +58,6 @@
         "datosabiertos.bogota.gov.co/",
         "metadatos.ideca.gov.co/",
         "geoitems.ideca.gov.co/",
-        "/gestioninventarios/",
         "http://10.37.5.4/",
         "http://10.35.180.29/",
         "http://10.35.180.11/"
@@ -130,7 +129,8 @@
         "/hie/index.html",
         "/v5/index.html",
         "mapas.bogota.gov.co",
-        "/inventario/"        
+        "/inventario/",
+        "/gestioninventarios/"
     ],
       "children": [
         {
